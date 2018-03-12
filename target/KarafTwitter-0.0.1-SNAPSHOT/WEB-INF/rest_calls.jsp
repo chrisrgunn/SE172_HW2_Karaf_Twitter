@@ -1,3 +1,8 @@
+<!-- Author: Vijay Dhanota, Daanish Husain
+    This class shows buttons and input fields
+    for the user to make 8 different HTTP calls for Twitter.
+    Each button makes a POST request to the TwitterServlet.java class -->
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
 <html>

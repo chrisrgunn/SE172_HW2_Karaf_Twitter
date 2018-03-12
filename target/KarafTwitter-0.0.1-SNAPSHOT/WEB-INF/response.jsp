@@ -1,3 +1,6 @@
+<!-- Author: Vijay Dhanota, Daanish Husain
+    This JSP shows the JSON to the user  -->
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <html>
     <head>
